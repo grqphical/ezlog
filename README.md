@@ -9,7 +9,7 @@ $   go get github.com/grqphical07/ezlog
 
 ```go
 import "github.com/grqphical07/ezlog"
-impor "time"
+import "time"
 
 func main() {
     ezlog.LogInfo("Information")
